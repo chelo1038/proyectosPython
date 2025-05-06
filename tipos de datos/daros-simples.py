@@ -1,10 +1,10 @@
-# Initializing schedules with 20 seats each
+
 horario1 = [0] * 20
 horario2 = [0] * 20
 horario3 = [0] * 20
 horario4 = [0] * 20
 
-# Asking the user which schedule they want to reserve
+
 horario = int(input("Tenemos 4 horarios disponibles, cual desea reservar? (digite 1,2,3 o 4) "))
 
 if horario == 1:

@@ -15,7 +15,7 @@ print(lista)
 
 #se puede con texto
 #agregando un elemento a la lista en una posicion especifica
-#el numero significa la pocicion
+#el primer numero significa la pocicion
 lista.insert(1, 8)
 print(lista)
 
@@ -44,7 +44,7 @@ print(lista)
 #lista.clear()
 #print(lista)
 
-
+# ordena numeros acendentes 
 #ordenando elementos de una lista de forma acendente .sort (si usamos el parametro reverse=true lo ordena en reversa )
 #los falsos vienen primero luego los true y despues lo numeros de menor a mayor.sort
 lista.sort()
